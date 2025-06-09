@@ -1,0 +1,17 @@
+#Ignores all with following flie extensions
+#*.pyc
+#__pycache__/
+#*.o
+#*.out
+#*.exe
+#*.class
+#*~
+#*.bak
+#*.swp
+#*.tmp
+#*.log
+#.vscode/
+#.idea
+#.DS_Store
+#Thumbs.db
+#*.txt
